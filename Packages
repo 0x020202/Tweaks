@@ -1,0 +1,34 @@
+Package: com.0x020202.alphadock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 0x020202 <notjohn173@gmail.com>
+Depends: 
+Filename: ./debs/com.0x020202.alphadock_1.0-1+debug_iphoneos-arm.deb
+Size: 3742
+MD5sum: 119fe0ab45467f3262db6add688e91dc
+SHA1: f1049fb4248e52c36a20885130cf7e6ed36200f3
+SHA256: 620849f791c18d1274f01d7252438ed467ac580ff68406a294fb19078debdf88
+Section: Tweaks
+Description: Transparent Dock
+Author: John Sitar (0x020202) <notjohn173@gmail.com>
+Depiction: 
+Name: Alpha Dock
+
+
+
+Package: com.0x020202.lockscreenalert
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: 0x020202 <notjohn173@gmail.com>
+Depends: 
+Filename: ./debs/com.0x020202.lockscreenalert_1.0_iphoneos-arm.deb
+Size: 4484
+MD5sum: f6d6f57b26b61f1616d3d4a9d30df726
+SHA1: 8f1c1c348f305f4100e603ac81024cc943f476d6
+SHA256: 904fcafd1eec6a76f883cbe0cf51cae301e77811cdaa7542fd4857653f75ac93
+Section: Tweaks
+Description: This tweak is just a text to display an alert view.
+Author: John Sitar (0x020202) <notjohn173@gmail.com>
+Depiction: 
+Name: LockScreenAlert
+
