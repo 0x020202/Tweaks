@@ -1,8 +1,8 @@
 Origin: RPIServer
-Label: repo.rpiserver.com
+Label: RPISevrer
 Suite: stable
 Version: 1.0
 Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
-Description: repo.notjohn173.com
+Description: RPIServer
