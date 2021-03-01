@@ -1,0 +1,8 @@
+Origin: John's Repo
+Label: repo.notjohn173.com
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: repo.notjohn173.com
